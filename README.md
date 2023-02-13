@@ -2,7 +2,7 @@
 Telegram OTP Bot for your private use or customize OTP Bot to server any purpose.
 
 
-![See the bot in action](https://user-images.githubusercontent.com/117955242/204097808-bce40b2c-f9ab-4671-8f1f-4f285d899926.png)
+![See the bot in action under Bank Mode](https://user-images.githubusercontent.com/117955242/218443550-f28fed1b-b945-4061-993e-0f91ddd95fd3.jpeg)
 
 
     Send command: "/start" to start grabbing information.
